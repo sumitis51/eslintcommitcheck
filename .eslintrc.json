@@ -1,10 +1,7 @@
 {
   "extends": "next/core-web-vitals",
 "rules": {
-  "react/prop-types": 0,
-  "indent": ["error", 2],
-  "linebreak-style": 1,
-  "quotes": ["error", "double"]
+  "no-console": 2
 },
 "parserOptions": {
   "ecmaVersion": 2021,
