@@ -1,5 +1,5 @@
 const About = () => {
-    console.log("errorcsdcsad is");
+    console.log("errorcsd csd csad is");
     return (
         <div>
             Hello about
