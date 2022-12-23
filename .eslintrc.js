@@ -1,4 +1,4 @@
-{
+module.exports ={
     "env": {
         "browser": true,
         "es2021": true
@@ -17,6 +17,6 @@
         "react"
     ],
     "rules": {
-        "no-console":2
+        "no-console":"off"
     }
 }
